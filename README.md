@@ -6,9 +6,9 @@ Fusion 360 file available (just ask.)
 # Parts for the housing 
 * 3D Print 5 parts in the 3MF file, PetG 50% infil
 * 4 screws
-* 2 Thumbscrews
-* 2 heat press inserts M$ CNC kitchen
-* One Acrylic Tube Dia TBC length 500mm for 27 LEDs
+* 2 M4 Thumbscrews
+* 2 heat press inserts M4 from CNC kitchen
+* One Acrylic Tube Dia 20mm length 500mm for 27 LEDs
 * A strip of tracing paper rolled up inside the tube for diffusion. 
 
 # Circuit parts 
